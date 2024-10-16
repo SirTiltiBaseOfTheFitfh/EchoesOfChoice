@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1728955730 source:c:\users\lbasiletticapcha\desktop\echoesofchoice\main.cpp
+	"Personajes.h"
+	<iostream>
+	<stdio.h>
+
+1728955730 source:c:\users\lbasiletticapcha\desktop\echoesofchoice\personajes.cpp
+	"Personajes.h"
+
+1728955420 c:\users\lbasiletticapcha\desktop\echoesofchoice\personajes.h
+	<string>
+
+1728954911 source:c:\users\lbasiletticapcha\desktop\echoesofchoice\dado.cpp
+	"Dado.h"
+	<cstdlib>
+	<ctime>
+
+1728953679 c:\users\lbasiletticapcha\desktop\echoesofchoice\dado.h
+
+1728969429 source:c:\users\lauta\onedrive\desktop\echoesofchoice\dado.cpp
+	"Dado.h"
+	<cstdlib>
+	<ctime>
+
+1728953680 c:\users\lauta\onedrive\desktop\echoesofchoice\dado.h
+
+1728969348 source:c:\users\lauta\onedrive\desktop\echoesofchoice\main.cpp
+	"Personajes.h"
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+
+1728968651 c:\users\lauta\onedrive\desktop\echoesofchoice\personajes.h
+	<string>
+
+1728969000 source:c:\users\lauta\onedrive\desktop\echoesofchoice\personajes.cpp
+	"Personajes.h"
+	"Dado.h"
+
+1728967599 source:c:\users\lauta\onedrive\desktop\echoesofchoice\enemigos.cpp
+	"Enemigos.h"
+
+1728967599 c:\users\lauta\onedrive\desktop\echoesofchoice\enemigos.h
+	"Personajes.h"
+	<string>
+

@@ -31,7 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="SFML-2.6.1/include" />
 		</Compiler>
+		<Linker>
+			<Add library="sfml-graphics" />
+			<Add library="sfml-window" />
+			<Add library="sfml-system" />
+			<Add directory="SFML-2.6.1/lib" />
+		</Linker>
 		<Unit filename="Dado.cpp" />
 		<Unit filename="Dado.h" />
 		<Unit filename="Enemigos.cpp" />
